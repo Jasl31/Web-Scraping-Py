@@ -26,6 +26,7 @@ Puedes instalarlas utilizando `pip`:
 
 ```bash
 pip install requests beautifulsoup4
+```
 
 # Uso
 
